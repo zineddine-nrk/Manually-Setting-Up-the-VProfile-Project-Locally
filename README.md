@@ -1,4 +1,4 @@
-# v-profile-deploymen (locally)
+# v-profile-deployment (locally)
 
 ![Screenshot from 2024-07-21 21-22-53](https://github.com/user-attachments/assets/a1dc8b31-7e0b-4446-81ad-c9fab150f355)
 
